@@ -1,0 +1,55 @@
+# spambase
+----------
+
+Dataset: http://archive.ics.uci.edu/ml/datasets/spambase
+
+<table>
+  <thead>
+    <tr>
+      <th>fold</th>
+      <th>falseNegative</th>
+      <th>falsePositive</th>
+      <th>errorRate</th> 	 	
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td>0.023887</td>
+      <td>0.024973</td>
+      <td>0.048860</td> 	 	
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>0.042391</td>
+      <td>0.023913</td>
+      <td>0.066304</td> 	 	
+    </tr>   
+    <tr>
+      <td>2</td>
+      <td>0.020652</td>
+      <td>0.023913/td>
+      <td>0.044565</td> 	 	
+    </tr>  
+    <tr>
+      <td>3</td>
+      <td>0.032609</td>
+      <td>0.036957</td>
+      <td>0.069565</td> 	 	
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>0.041304</td>
+      <td>0.026087</td>
+      <td>0.067391</td> 	 	
+    </tr>    
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Average:</td>
+      <td>0.032169</td>
+      <td>0.027168</td>
+      <td>0.059337</td>
+    </tr>
+  </tfoot>
+</table>  
