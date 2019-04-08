@@ -28,7 +28,7 @@ Dataset: http://archive.ics.uci.edu/ml/datasets/spambase
     <tr>
       <td>2</td>
       <td>0.020652</td>
-      <td>0.023913/td>
+      <td>0.023913</td>
       <td>0.044565</td> 	 	
     </tr>  
     <tr>
